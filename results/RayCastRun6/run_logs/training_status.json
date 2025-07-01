@@ -1,0 +1,29 @@
+{
+    "AgentControl": {
+        "checkpoints": [
+            {
+                "steps": 222591,
+                "file_path": "results\\RayCastRun6\\AgentControl\\AgentControl-222591.onnx",
+                "reward": -9.129312261939049,
+                "creation_time": 1751309607.6341352,
+                "auxillary_file_paths": [
+                    "results\\RayCastRun6\\AgentControl\\AgentControl-222591.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 222591,
+            "file_path": "results\\RayCastRun6\\AgentControl.onnx",
+            "reward": -9.129312261939049,
+            "creation_time": 1751309607.6341352,
+            "auxillary_file_paths": [
+                "results\\RayCastRun6\\AgentControl\\AgentControl-222591.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.7.1+cpu"
+    }
+}

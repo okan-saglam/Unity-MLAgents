@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1751303027",
+        "python_version": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\user\\Desktop\\MyGames\\MLAgent\\MLvenv\\Scripts\\mlagents-learn --run-id =NewLocomotinRun1",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.7.1+cpu",
+        "numpy_version": "1.21.2",
+        "end_time_seconds": "1751303050"
+    },
+    "total": 22.4382928,
+    "count": 1,
+    "self": 0.010069999999998913,
+    "children": {
+        "run_training.setup": {
+            "total": 0.04118870000000019,
+            "count": 1,
+            "self": 0.04118870000000019
+        },
+        "TrainerController.start_learning": {
+            "total": 22.3870341,
+            "count": 1,
+            "self": 0.0005432999999968047,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 22.3864713,
+                    "count": 1,
+                    "self": 22.3864713
+                },
+                "trainer_threads": {
+                    "total": 1.900000000887303e-06,
+                    "count": 1,
+                    "self": 1.900000000887303e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.7600000003170635e-05,
+                    "count": 1,
+                    "self": 1.7600000003170635e-05
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "HunterControl": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\MultiAgentsRun1\\HunterControl\\HunterControl-499999.onnx",
+                "reward": 5.833333333333333,
+                "creation_time": 1751397171.9407945,
+                "auxillary_file_paths": [
+                    "results\\MultiAgentsRun1\\HunterControl\\HunterControl-499999.pt"
+                ]
+            },
+            {
+                "steps": 999991,
+                "file_path": "results\\MultiAgentsRun1\\HunterControl\\HunterControl-999991.onnx",
+                "reward": 3.2748538011695905,
+                "creation_time": 1751398016.035087,
+                "auxillary_file_paths": [
+                    "results\\MultiAgentsRun1\\HunterControl\\HunterControl-999991.pt"
+                ]
+            },
+            {
+                "steps": 1106237,
+                "file_path": "results\\MultiAgentsRun1\\HunterControl\\HunterControl-1106237.onnx",
+                "reward": null,
+                "creation_time": 1751398200.9495046,
+                "auxillary_file_paths": [
+                    "results\\MultiAgentsRun1\\HunterControl\\HunterControl-1106237.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1106237,
+            "file_path": "results\\MultiAgentsRun1\\HunterControl.onnx",
+            "reward": null,
+            "creation_time": 1751398200.9495046,
+            "auxillary_file_paths": [
+                "results\\MultiAgentsRun1\\HunterControl\\HunterControl-1106237.pt"
+            ]
+        }
+    },
+    "AgentControl": {
+        "checkpoints": [
+            {
+                "steps": 499999,
+                "file_path": "results\\MultiAgentsRun1\\AgentControl\\AgentControl-499999.onnx",
+                "reward": 8.0,
+                "creation_time": 1751397172.0366879,
+                "auxillary_file_paths": [
+                    "results\\MultiAgentsRun1\\AgentControl\\AgentControl-499999.pt"
+                ]
+            },
+            {
+                "steps": 999991,
+                "file_path": "results\\MultiAgentsRun1\\AgentControl\\AgentControl-999991.onnx",
+                "reward": 16.181286549707604,
+                "creation_time": 1751398016.1198535,
+                "auxillary_file_paths": [
+                    "results\\MultiAgentsRun1\\AgentControl\\AgentControl-999991.pt"
+                ]
+            },
+            {
+                "steps": 1106237,
+                "file_path": "results\\MultiAgentsRun1\\AgentControl\\AgentControl-1106237.onnx",
+                "reward": null,
+                "creation_time": 1751398201.0510747,
+                "auxillary_file_paths": [
+                    "results\\MultiAgentsRun1\\AgentControl\\AgentControl-1106237.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1106237,
+            "file_path": "results\\MultiAgentsRun1\\AgentControl.onnx",
+            "reward": null,
+            "creation_time": 1751398201.0510747,
+            "auxillary_file_paths": [
+                "results\\MultiAgentsRun1\\AgentControl\\AgentControl-1106237.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.7.1+cpu"
+    }
+}
