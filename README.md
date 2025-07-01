@@ -57,11 +57,11 @@ You can control each agent's configuration independently via the YAML file.
 ## Media
 
 ### Training Progress
-[![Watch on YouTube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=loYZeJFcyI8&ab_channel=OkanSa%C4%9Flam)
+[![Watch on YouTube](https://img.youtube.com/vi/loYZeJFcyI8/0.jpg)](https://www.youtube.com/watch?v=loYZeJFcyI8&ab_channel=OkanSa%C4%9Flam)
 
 
 ### Trained Agents in Action
-[![Watch on YouTube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Pilrd2wEAVA&ab_channel=OkanSa%C4%9Flam)
+[![Watch on YouTube](https://img.youtube.com/vi/Pilrd2wEAVA/0.jpg)](https://www.youtube.com/watch?v=Pilrd2wEAVA&ab_channel=OkanSa%C4%9Flam)
 
 ---
 
