@@ -1,5 +1,5 @@
 
-# 🧠 Predator-Prey Multi-Agent RL Environment
+# Predator-Prey Multi-Agent RL Environment
 
 A Unity ML-Agents simulation where two agents — a **Pellet Collector (Prey)** and a **Hunter** — interact in a shared environment. The prey collects randomly spawned pellets while avoiding being caught by the hunter. The hunter is rewarded for catching the prey, while the prey is rewarded for successfully collecting all pellets before being caught or timed out.
 
@@ -54,27 +54,27 @@ You can control each agent's configuration independently via the YAML file.
 
 ---
 
-## 📷 Media
+## Media
 
-### 🔁 Training Progress
+### Training Progress
 [![Watch on YouTube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=loYZeJFcyI8&ab_channel=OkanSa%C4%9Flam)
 
 
-### 🎥 Trained Agents in Action
+### Trained Agents in Action
 [![Watch on YouTube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Pilrd2wEAVA&ab_channel=OkanSa%C4%9Flam)
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Unity 2021.x or later
 - ML-Agents Toolkit v2.x
 - Python 3.8+
 - `requirements.txt` file was generated from the virtual environment:
-- 
+  
 ---
 
-## 🚀 Run the Simulation
+## Run the Simulation
 
 - Open the project in Unity.
 - Load the training scene.
