@@ -8,7 +8,7 @@ A Unity ML-Agents simulation where two agents — a **Pellet Collector (Prey)** 
 ## Features
 
 - **Reinforcement Learning-based control** using [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents).
-- **Two agents** trained concurrently with competitive objectives:
+- **Two agents** trained concurrently with competitive objectives.
 - **Prey**: collect all pellets to win.
 - **Hunter**: catch the prey before time runs out or all pellets are collected.
 - **Time-based episode endings** with penalty for stalling.
@@ -56,12 +56,14 @@ You can control each agent's configuration independently via the YAML file.
 
 ## Media
 
-### Training Progress
-[![Watch on YouTube](https://img.youtube.com/vi/loYZeJFcyI8/0.jpg)](https://www.youtube.com/watch?v=loYZeJFcyI8&ab_channel=OkanSa%C4%9Flam)
+### Training Progress  
+[![Watch on YouTube](https://img.youtube.com/vi/loYZeJFcyI8/0.jpg)](https://www.youtube.com/watch?v=loYZeJFcyI8)  
+▶️ *Click to watch training progress on YouTube*
 
+### Trained Agents in Action  
+[![Watch on YouTube](https://img.youtube.com/vi/Pilrd2wEAVA/0.jpg)](https://www.youtube.com/watch?v=Pilrd2wEAVA)  
+▶️ *Click to watch trained agents in action*
 
-### Trained Agents in Action
-[![Watch on YouTube](https://img.youtube.com/vi/Pilrd2wEAVA/0.jpg)](https://www.youtube.com/watch?v=Pilrd2wEAVA&ab_channel=OkanSa%C4%9Flam)
 
 ---
 
@@ -70,7 +72,7 @@ You can control each agent's configuration independently via the YAML file.
 - Unity 2021.x or later
 - ML-Agents Toolkit v2.x
 - Python 3.8+
-- `requirements.txt` file was generated from the virtual environment:
+- `requirements.txt` file was generated from the virtual environment
   
 ---
 
